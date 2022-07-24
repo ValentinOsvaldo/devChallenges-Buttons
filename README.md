@@ -32,3 +32,6 @@ $ npm run dev
 - [React](https://reactjs.org)
 
 ## Contact
+
+- Website [ovalentin.dev](https://ovalentindev.vercel.app/)
+- GitHub [@ValentinOsvaldo](https://github.com/ValentinOsvaldo)
